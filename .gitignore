@@ -1,0 +1,87 @@
+# ==============================
+# Python & Bytecode
+# ==============================
+*.py[cod]
+__pycache__/
+*.so
+*.egg-info/
+*.pyd
+*.pyo
+
+# ==============================
+# Virtual Environments
+# ==============================
+venv/
+chatbot/
+env/
+ENV/
+.venv/
+.ENV/
+*.virtualenv
+
+# ==============================
+# Jupyter/IPython Notebooks
+# ==============================
+.ipynb_checkpoints/
+
+# ==============================
+# IDE & OS Settings
+# ==============================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ==============================
+# Logs & Debugging
+# ==============================
+*.log
+logs/
+*.out
+
+# ==============================
+# Environment Variables & Secrets
+# ==============================
+.env
+.env.*
+
+# ==============================
+# FAISS Indexes & Vector DB
+# ==============================
+vector_store/
+*.faiss
+*.pkl
+
+# ==============================
+# Uploaded Documents
+# ==============================
+documents/
+uploads/
+
+# ==============================
+# Streamlit App Cache
+# ==============================
+.streamlit/
+*.pydevproject
+
+# ==============================
+# LangChain/GenAI Temporary Files
+# ==============================
+.cache/
+__temp__/
+tmp/
+tmp*/
+
+
+# ==============================
+# Windows Executables & Compiled Binaries
+# ==============================
+*.exe
+*.dll
+*.lib
+
+# ==============================
+# macOS System Files
+# ==============================
+.AppleDouble
+.LSOverride

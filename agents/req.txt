@@ -1,0 +1,8 @@
+unstructured[pdf]
+pytesseract
+pdf2image
+pillow
+langchain-community
+langchain
+python-docx
+python-pptx
